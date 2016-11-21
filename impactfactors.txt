@@ -1,0 +1,1221 @@
+1~OSDI~3.31
+2~USENIX Symposium on Internet Technologies and Systems~3.23
+3~PLDI~2.89
+4~SIGCOMM~2.79
+5~MOBICOM~2.76
+6~ASPLOS~2.70
+7~USENIX Annual Technical Conference~2.64
+8~TOCS~2.56
+9~SIGGRAPH~2.53
+10~JAIR~2.45
+11~SOSP~2.41
+12~MICRO~2.31
+13~POPL~2.26
+14~PPOPP~2.22
+15~Machine Learning~2.20
+16~25 Years ISCA: Retrospectives and Reprints~2.19
+17~WWW8 / Computer Networks~2.17
+18~Computational Linguistics~2.16
+19~JSSPP~2.15
+20~VVS~2.14
+21~FPCA~2.12
+22~LISP and Functional Programming~2.12
+23~ICML~2.12
+24~Data Mining and Knowledge Discovery~2.08
+25~SI3D~2.06
+26~ICSE - Future of SE Track~2.05
+27~IEEE/ACM Transactions on Networking~2.05
+28~OOPSLA/ECOOP~2.05
+29~WWW9 / Computer Networks~2.02
+30~Workshop on Workstation Operating Systems~2.01
+31~Journal of Computer Security~2.00
+32~TOSEM~1.99
+33~Workshop on Parallel and Distributed Debugging~1.99
+34~Workshop on Hot Topics in Operating Systems~1.99
+35~WebDB (Informal Proceedings)~1.99
+36~WWW5 / Computer Networks~1.97
+37~Journal of Cryptology~1.97
+38~CSFW~1.96
+39~ECOOP~1.95
+40~Evolutionary Computation~1.94
+41~TOPLAS~1.92
+42~SIGSOFT FSE~1.88
+43~CAV~1.88
+44~AAAI/IAAI, Vol. 1~1.87
+45~PODS~1.86
+46~Artificial Intelligence~1.85
+47~NOSSDAV~1.85
+48~OOPSLA~1.84
+49~ACM Conference on Computer and Communications Security~1.82
+50~IJCAI (1)~1.82
+51~VLDB Journal~1.81
+52~TODS~1.81
+53~USENIX Winter~1.80
+54~HPCA~1.79
+55~LICS~1.79
+56~JLP~1.78
+57~WWW6 / Computer Networks~1.78
+58~ICCV~1.78
+59~IEEE Real-Time Systems Symposium~1.78
+60~AES Candidate Conference~1.77
+61~KR~1.76
+62~TISSEC~1.76
+63~ACM Conference on Electronic Commerce~1.75
+64~TOIS~1.75
+65~PEPM~1.74
+66~SIGMOD Conference~1.74
+67~Formal Methods in System Design~1.74
+68~Mobile Agents~1.73
+69~REX Workshop~1.73
+70~NMR~1.73
+71~Computing Systems~1.72
+72~LOPLAS~1.72
+73~STOC~1.69
+74~Distributed Computing~1.69
+75~KDD~1.68
+76~Symposium on Testing, Analysis, and Verification~1.65
+77~Software Development Environments (SDE)~1.64
+78~SIAM J. Comput.~1.64
+79~CRYPTO~1.63
+80~Multimedia Systems~1.62
+81~ICFP~1.62
+82~Lisp and Symbolic Computation~1.61
+83~ECP~1.61
+84~CHI~1.61
+85~ISLP~1.60
+86~ACM Symposium on User Interface Software and Technology~1.59
+87~ESOP~1.58
+88~ECCV~1.58
+89~ACM Transactions on Graphics~1.57
+90~CSCW~1.57
+91~AOSE~1.57
+92~ICCL~1.57
+93~Journal of Functional Programming~1.57
+94~RTSS~1.57
+95~ECSCW~1.56
+96~TOCHI~1.56
+97~ISCA~1.56
+98~SIGMETRICS/Performance~1.56
+99~IWMM~1.55
+100~JICSLP~1.54
+101~Automatic Verification Methods for Finite State Systems~1.54
+102~WWW~1.54
+103~IEEE Transactions on Pattern Analysis and Machine Intelligence~1.54
+104~AIPS~1.53
+105~IEEE Transactions on Visualization and Computer Graphics~1.53
+106~VLDB~1.52
+107~Symposium on Computational Geometry~1.51
+108~FOCS~1.51
+109~ATAL~1.51
+110~SODA~1.51
+111~PPCP~1.50
+112~AAAI~1.49
+113~COLT~1.49
+114~USENIX Summer~1.49
+115~Information and Computation~1.48
+116~Java Grande~1.47
+117~ISMM~1.47
+118~ICLP/SLP~1.47
+119~SLP~1.45
+120~Structure in Complexity Theory Conference~1.45
+121~IEEE Transactions on Multimedia~1.45
+122~Rules in Database Systems~1.44
+123~ACL~1.44
+124~CONCUR~1.44
+125~SPAA~1.44
+126~J. Algorithms~1.42
+127~DOOD~1.42
+128~ESEC / SIGSOFT FSE~1.41
+129~ICDT~1.41
+130~Advances in Petri Nets~1.41
+131~ICNP~1.40
+132~SSD~1.39
+133~INFOCOM~1.39
+134~IEEE Symposium on Security and Privacy~1.39
+135~Cognitive Science~1.38
+136~TSE~1.38
+137~Storage and Retrieval for Image and Video Databases (SPIE)~1.38
+138~NACLP~1.38
+139~SIGMETRICS~1.38
+140~JACM~1.37
+141~PODC~1.37
+142~International Conference on Supercomputing~1.36
+143~Fast Software Encryption~1.35
+144~IEEE Visualization~1.35
+145~SAS~1.35
+146~TACS~1.35
+147~International Journal of Computer Vision~1.33
+148~JCSS~1.32
+149~Algorithmica~1.31
+150~TOCL~1.30
+151~Information Hiding~1.30
+152~Journal of Automated Reasoning~1.30
+153~ECCV (1)~1.29
+154~PCRCW~1.29
+155~Journal of Logic and Computation~1.29
+156~KDD Workshop~1.28
+157~ML~1.28
+158~ISSTA~1.28
+159~EUROCRYPT~1.27
+160~PDIS~1.27
+161~Hypertext~1.27
+162~IWDOM~1.27
+163~PARLE (2)~1.26
+164~Hybrid Systems~1.26
+165~American Journal of Computational Linguistics~1.26
+166~SPIN~1.25
+167~ICDE~1.25
+168~FMCAD~1.25
+169~SC~1.25
+170~EDBT~1.25
+171~Computational Complexity~1.25
+172~International Journal of Computatinal Geometry and Applications~1.25
+173~ESORICS~1.25
+174~IJCAI (2)~1.24
+175~TACAS~1.24
+176~Ubicomp~1.24
+177~MPC~1.24
+178~AWOC~1.24
+179~TLCA~1.23
+180~Emergent Neural Computational Architectures Based on Neuroscience~1.23
+181~CADE~1.22
+182~PROCOMET~1.22
+183~ACM Multimedia~1.22
+184~IEEE Journal on Selected Areas in Communications~1.22
+185~Science of Computer Programming~1.22
+186~LCPC~1.22
+187~CT-RSA~1.22
+188~ICLP~1.21
+189~Financial Cryptography~1.21
+190~DBPL~1.21
+191~AAAI/IAAI~1.20
+192~Artificial Life~1.20
+193~Higher-Order and Symbolic Computation~1.19
+194~TKDE~1.19
+195~ACM Computing Surveys~1.19
+196~Computational Geometry~1.18
+197~Autonomous Agents and Multi-Agent Systems~1.18
+198~EWSL~1.18
+199~Learning for Natural Language Processing~1.18
+200~TAPOS~1.17
+201~TAPSOFT, Vol.1~1.17
+202~International Journal of Computational Geometry and Applications~1.17
+203~TAPSOFT~1.17
+204~IEEE Transactions on Parallel and Distributed Systems~1.17
+205~Heterogeneous Computing Workshop~1.16
+206~Distributed and Parallel Databases~1.16
+207~DAC~1.16
+208~ICTL~1.16
+209~Performance/SIGMETRICS Tutorials~1.16
+210~IEEE Computer~1.15
+211~IEEE Real Time Technology and Applications Symposium~1.15
+212~TAPSOFT, Vol.2~1.15
+213~ACM Workshop on Role-Based Access Control~1.15
+214~WCRE~1.14
+215~Applications and Theory of Petri Nets~1.14
+216~ACM SIGOPS European Workshop~1.14
+217~ICDCS~1.14
+218~Mathematical Structures in Computer Science~1.14
+219~Workshop on the Management of Replicated Data~1.13
+220~ECCV (2)~1.13
+221~PPSN~1.13
+222~Middleware~1.13
+223~OODBS~1.12
+224~Electronic Colloquium on Computational Complexity (ECCC)~1.12
+225~UML~1.12
+226~Real-Time Systems~1.12
+227~FME~1.12
+228~Evolutionary Computing, AISB Workshop~1.11
+229~IEEE Conference on Computational Complexity~1.11
+230~IOPADS~1.11
+231~IJCAI~1.10
+232~ISWC~1.10
+233~SIGIR~1.10
+234~Symposium on LISP and Functional Programming~1.10
+235~PASTE~1.10
+236~HPDC~1.10
+237~Application and Theory of Petri Nets~1.09
+238~ICCAD~1.09
+239~Category Theory and Computer Science~1.08
+240~Recent Advances in Intrusion Detection~1.08
+241~JIIS~1.08
+242~TODAES~1.08
+243~Neural Computation~1.08
+244~CCL~1.08
+245~SIGPLAN Workshop~1.08
+246~DPDS~1.07
+247~ACM Multimedia (1)~1.07
+248~MAAMAW~1.07
+249~Computer Graphics Forum~1.07
+250~HUG~1.06
+251~Hybrid Neural Systems~1.06
+252~SRDS~1.06
+253~TPCD~1.06
+254~ILP~1.06
+255~ARTDB~1.06
+256~NIPS~1.06
+257~Formal Aspects of Computing~1.06
+258~ECHT~1.06
+259~ICMCS~1.06
+260~Wireless Networks~1.05
+261~Advances in Data Base Theory~1.05
+262~WDAG~1.05
+263~ALP~1.05
+264~TARK~1.05
+265~PATAT~1.05
+266~ISTCS~1.04
+267~Concurrency - Practice and Experience~1.04
+268~CP~1.04
+269~Computer Vision, Graphics, and Image Processing~1.04
+270~FTCS~1.04
+271~RTA~1.04
+272~COORDINATION~1.03
+273~CHDL~1.03
+274~Theory of Computing Systems~1.02
+275~CTRS~1.02
+276~COMPASS/ADT~1.02
+277~TOMACS~1.02
+278~IEEE Micro~1.02
+279~IEEE PACT~1.02
+280~ASIACRYPT~1.01
+281~MONET~1.01
+282~WWW7 / Computer Networks~1.01
+283~HUC~1.01
+284~Expert Database Conf.~1.00
+285~Agents~1.00
+286~CPM~1.00
+287~SIGPLAN Symposium on Compiler Construction~1.00
+288~International Conference on Evolutionary Computation~1.00
+289~TAGT~1.00
+290~Workshop on Parallel and Distributed Simulation~1.00
+291~FTRTFT~1.00
+292~TPHOLs~1.00
+293~Intelligent User Interfaces~0.99
+294~Journal of Functional and Logic Programming~0.99
+295~Cluster Computing~0.99
+296~ESA~0.99
+297~PLILP~0.99
+298~COLING-ACL~0.98
+299~META~0.97
+300~IEEE MultiMedia~0.97
+301~ICALP~0.97
+302~IATA~0.97
+303~FPGA~0.97
+304~EuroCOLT~0.97
+305~New Generation Computing~0.97
+306~Automated Software Engineering~0.97
+307~GRID~0.97
+308~ISOTAS~0.96
+309~LPNMR~0.96
+310~PLILP/ALP~0.96
+311~UIST~0.96
+312~IPCO~0.95
+313~ICPP, Vol. 1~0.95
+314~PNPM~0.95
+315~HSCC~0.95
+316~ILPS~0.95
+317~RIDE-IMS~0.95
+318~Int. J. on Digital Libraries~0.95
+319~STTT~0.94
+320~MFPS~0.94
+321~Graph-Grammars and Their Application to Computer Science~0.93
+322~Graph Drawing~0.93
+323~VRML~0.93
+324~VDM Europe~0.93
+325~AAAI/IAAI, Vol. 2~0.93
+326~Z User Workshop~0.93
+327~Constraints~0.93
+328~SCM~0.93
+329~IEEE Software~0.92
+330~World Wide Web~0.92
+331~HOA~0.92
+332~Symposium on Reliable Distributed Systems~0.92
+333~SIAM Journal on Discrete Mathematics~0.92
+334~SMILE~0.91
+335~HART~0.91
+336~ICPP, Vol. 3~0.91
+337~FASE~0.91
+338~TCS~0.91
+339~IEEE Transactions on Information Theory~0.91
+340~C++ Conference~0.91
+341~ICSE~0.90
+342~ARTS~0.90
+343~Journal of Computational Biology~0.90
+344~SIGART Bulletin~0.90
+345~TREC~0.89
+346~Implementation of Functional Languages~0.89
+347~Acta Informatica~0.88
+348~SAIG~0.88
+349~CANPC~0.88
+350~CACM~0.87
+351~PADL~0.87
+352~Networked Group Communication~0.87
+353~RECOMB~0.87
+354~ACM DL~0.87
+355~Computer Performance Evaluation~0.87
+356~Journal of Parallel and Distributed Computing~0.86
+357~PARLE (1)~0.86
+358~DISC~0.85
+359~FGCS~0.85
+360~ELP~0.85
+361~IEEE Transactions on Computers~0.85
+362~JSC~0.85
+363~LOPSTR~0.85
+364~FoSSaCS~0.85
+365~World Congress on Formal Methods~0.85
+366~CHARME~0.84
+367~RIDE~0.84
+368~APPROX~0.84
+369~EWCBR~0.84
+370~CC~0.83
+371~Public Key Cryptography~0.83
+372~CA~0.83
+373~CHES~0.83
+374~ECML~0.83
+375~LCTES/OM~0.83
+376~Information Systems~0.83
+377~IJCIS~0.83
+378~Journal of Visual Languages and Computing~0.82
+379~WADS~0.82
+380~Random Structures and Algorithms~0.81
+381~ICS~0.81
+382~Data Engineering Bulletin~0.81
+383~VDM Europe (1)~0.81
+384~SWAT~0.80
+385~Nordic Journal of Computing~0.80
+386~Mathematical Foundations of Programming Semantics~0.80
+387~Architectures and Compilation Techniques for Fine and Medium Grain Parallelism~0.80
+388~KBSE~0.80
+389~STACS~0.80
+390~EMSOFT~0.80
+391~IEEE Data Engineering Bulletin~0.80
+392~Annals of Mathematics and Artificial Intelligence~0.79
+393~WOSP~0.79
+394~VBC~0.79
+395~RTDB~0.79
+396~CoopIS~0.79
+397~Combinatorica~0.79
+398~International Journal of Geographical Information Systems~0.78
+399~Autonomous Robots~0.78
+400~IW-MMDBMS~0.78
+401~ESEC~0.78
+402~WADT~0.78
+403~CAAP~0.78
+404~LCTES~0.78
+405~ZUM~0.77
+406~TYPES~0.77
+407~Symposium on Reliability in Distributed Software and Database Systems~0.77
+408~TABLEAUX~0.77
+409~International Journal of Parallel Programming~0.77
+410~COST 237 Workshop~0.77
+411~Data Types and Persistence (Appin), Informal Proceedings~0.77
+412~Evolutionary Programming~0.77
+413~Reflection~0.76
+414~SIGMOD Record~0.76
+415~Security Protocols Workshop~0.76
+416~XP1 Workshop on Database Theory~0.76
+417~EDMCC~0.76
+418~DL~0.76
+419~EDAC-ETC-EUROASIC~0.76
+420~Protocols for High-Speed Networks~0.76
+421~PPDP~0.75
+422~IFIP PACT~0.75
+423~LNCS~0.75
+424~IWQoS~0.75
+425~UK Hypertext~0.75
+426~Selected Areas in Cryptography~0.75
+427~ICATPN~0.74
+428~Workshop on Computational Geometry~0.74
+429~Integrated Network Management~0.74
+430~ICGI~0.74
+431~ICPP (2)~0.74
+432~SSR~0.74
+433~ADB~0.74
+434~Object Representation in Computer Vision~0.74
+435~PSTV~0.74
+436~CAiSE~0.74
+437~On Knowledge Base Management Systems (Islamorada)~0.74
+438~CIKM~0.73
+439~WSA~0.73
+440~RANDOM~0.73
+441~KRDB~0.73
+442~ISSS~0.73
+443~SIGAL International Symposium on Algorithms~0.73
+444~INFORMS Journal on Computing~0.73
+445~Computer Supported Cooperative Work~0.73
+446~CSL~0.72
+447~Computational Intelligence~0.72
+448~ICCBR~0.72
+449~ICES~0.72
+450~AI Magazine~0.72
+451~JELIA~0.72
+452~VR~0.71
+453~ICPP (1)~0.71
+454~RIDE-TQP~0.71
+455~ISA~0.71
+456~Data Compression Conference~0.71
+457~CIA~0.71
+458~COSIT~0.71
+459~IJCSLP~0.71
+460~DISCO~0.71
+461~DKE~0.71
+462~IWAN~0.71
+463~Operating Systems Review~0.70
+464~IEEE Internet Computing~0.70
+465~LISP Conference~0.70
+466~C++ Workshop~0.70
+467~SPDP~0.70
+468~Fuji International Symposium on Functional and Logic Programming~0.69
+469~LPAR~0.69
+470~ECAI~0.69
+471~Hypermedia~0.69
+472~Artificial Intelligence in Medicine~0.69
+473~AADEBUG~0.69
+474~VL~0.69
+475~FSTTCS~0.69
+476~AMAST~0.68
+477~Artificial Intelligence Review~0.68
+478~HPN~0.68
+479~POS~0.68
+480~Research Directions in High-Level Parallel Programming Languages~0.68
+481~Performance Evaluation~0.68
+482~ASE~0.68
+483~LFCS~0.67
+484~ISCOPE~0.67
+485~Workshop on Software and Performance~0.67
+486~European Workshop on Applications and Theory in Petri Nets~0.67
+487~ICPP~0.67
+488~INFOVIS~0.67
+489~Description Logics~0.67
+490~JCDKB~0.67
+491~Euro-Par, Vol. I~0.67
+492~RoboCup~0.67
+493~Symposium on Solid Modeling and Applications~0.66
+494~TPLP~0.66
+495~CVRMed~0.66
+496~POS/PJW~0.66
+497~FORTE~0.66
+498~IPMI~0.66
+499~ADL~0.66
+500~ICCS~0.66
+501~ISSAC~0.66
+502~Advanced Programming Environments~0.66
+503~COMPCON~0.66
+504~LCR~0.65
+505~Digital Libraries~0.65
+506~ALENEX~0.65
+507~AH~0.65
+508~CoBuild~0.65
+509~DS-6~0.65
+510~CDB~0.64
+511~Computer Networks and ISDN Systems~0.64
+512~IWACA~0.64
+513~MobiDE~0.64
+514~WOWMOM~0.64
+515~IEEE Expert~0.64
+516~IRREGULAR~0.64
+517~TOMS~0.63
+518~Multiple Classifier Systems~0.63
+519~Parallel Computing~0.63
+520~ANTS~0.63
+521~ACSAC~0.63
+522~RCLP~0.63
+523~Multimedia Tools and Applications~0.63
+524~ALT~0.63
+525~ICCD~0.63
+526~ICVS~0.62
+527~Workshop on Web Information and Data Management~0.62
+528~Software - Concepts and Tools~0.62
+529~ICSM~0.62
+530~The Visual Computer~0.62
+531~SARA~0.62
+532~IS~0.61
+533~Information Retrieval~0.61
+534~CARDIS~0.61
+535~DOA~0.61
+536~Cryptography: Policy and Algorithms~0.60
+537~Electronic Publishing~0.60
+538~SSTD~0.60
+539~Algebraic Methods~0.60
+540~AGTIVE~0.59
+541~Computational Logic~0.59
+542~Computer Communications~0.59
+543~QofIS~0.59
+544~Journal of Logic, Language and Information~0.59
+545~Expert Database Workshop~0.59
+546~IFL~0.58
+547~Nonmonotonic and Inductive Logic~0.58
+548~Algorithmic Number Theory~0.58
+549~Graph-Grammars and Their Application to Computer Science and Biology~0.58
+550~Structured Programming~0.58
+551~Information Processing Letters~0.58
+552~SIGKDD Explorations~0.58
+553~Parallel Symbolic Computing~0.58
+554~WG~0.58
+555~MIT-JSME Workshop~0.57
+556~Knowledge and Information Systems~0.57
+557~International Journal of Man-Machine Studies~0.57
+558~Software - Practice and Experience~0.57
+559~Scale-Space~0.57
+560~AI Communications~0.57
+561~Kurt G?del Colloquium~0.56
+562~DBSec~0.56
+563~ER~0.56
+564~IBM Journal of Research and Development~0.56
+565~QCQC~0.56
+566~Gesture Workshop~0.56
+567~CIAC~0.56
+568~Artificial Evolution~0.55
+569~RANDOM-APPROX~0.55
+570~Information Processing and Management~0.55
+571~EKAW~0.55
+572~Operating Systems of the 90s and Beyond~0.55
+573~International Zurich Seminar on Digital Communications~0.55
+574~Annals of Software Engineering~0.55
+575~AII~0.55
+576~DOLAP~0.55
+577~Fundamenta Informaticae~0.55
+578~PARLE~0.55
+579~Advanced Course: Distributed Systems~0.54
+580~BCEC~0.54
+581~Digital Technical Journal~0.54
+582~IJCAR~0.54
+583~Formal Methods in Programming and Their Applications~0.54
+584~IPPS~0.54
+585~Knowledge Based Systems~0.53
+586~PDK~0.53
+587~East/West Database Workshop~0.53
+588~International ACM Conference on Assistive Technologies~0.53
+589~Mathematical Systems Theory~0.53
+590~ICFEM~0.53
+591~DMDW~0.53
+592~International Journal of Foundations of Computer Science~0.52
+593~LACL~0.52
+594~Advances in Computers~0.52
+595~Workshop on Conceptual Graphs~0.52
+596~FM-Trends~0.52
+597~GREC~0.52
+598~Advanced Visual Interfaces~0.52
+599~Agents Workshop on Infrastructure for Multi-Agent Systems~0.52
+600~Euro-Par, Vol. II~0.52
+601~ICPP (3)~0.52
+602~Telecommunication Systems~0.52
+603~AISMC~0.52
+604~ISAAC~0.51
+605~ICIP (2)~0.51
+606~IEEE Symposium on Mass Storage Systems~0.51
+607~FAPR~0.51
+608~EHCI~0.51
+609~CHI Conference Companion~0.51
+610~Open Distributed Processing~0.51
+611~AUSCRYPT~0.51
+612~WWCA~0.50
+613~ICIP~0.50
+614~ICIP (1)~0.50
+615~Annals of Pure and Applied Logic~0.50
+616~CISMOD~0.50
+617~Algorithm Engineering~0.50
+618~CASES~0.50
+619~EWSPT~0.50
+620~ICMCS, Vol. 1~0.50
+621~BIT~0.50
+622~Computer Performance Evaluation (Tools)~0.50
+623~Information and Control~0.50
+624~Machine Vision and Applications~0.50
+625~Discrete Applied Mathematics~0.50
+626~PKDD~0.50
+627~ESCQARU~0.49
+628~IDS~0.49
+629~ACISP~0.49
+630~Computer Languages~0.49
+631~MFDBS~0.49
+632~QL~0.49
+633~Requirements Engineering~0.49
+634~International Journal of Human Computer Studies~0.48
+635~IBM Systems Journal~0.48
+636~Aegean Workshop on Computing~0.48
+637~Spatial Cognition~0.48
+638~MFCS~0.48
+639~Discrete & Computational Geometry~0.48
+640~ITC~0.47
+641~ATL~0.47
+642~ISW~0.47
+643~IEEE Intelligent Systems~0.47
+644~The Computer Journal~0.47
+645~Computer Networks~0.47
+646~Interacting with Computers~0.47
+647~Artificial Intelligence and Law~0.46
+648~ECAL~0.46
+649~Symposium on Designing Interactive Systems~0.46
+650~OOER~0.46
+651~ICIP (3)~0.46
+652~Genetic Programming and Evolvable Machines~0.46
+653~IWHD~0.45
+654~ICAIL~0.45
+655~ECDL~0.45
+656~Discrete Mathematics & Theoretical Computer Science~0.45
+657~EUROSAM~0.45
+658~VDB~0.44
+659~FPL~0.44
+660~ICFPC~0.44
+661~SIGMETRICS Performance Evaluation Review~0.43
+662~FODO~0.43
+663~PPSC~0.43
+664~GCSE~0.43
+665~IPPS/SPDP Workshops~0.43
+666~Programming Environments for High-Level Scientific Problem Solving~0.43
+667~Berkeley Workshop~0.43
+668~NGITS~0.43
+669~Computers and Games~0.43
+670~ACCV (2)~0.43
+671~AII/ALT~0.43
+672~Performance~0.43
+673~MASCOTS~0.43
+674~DAI~0.43
+675~CONPAR~0.42
+676~LATIN~0.42
+677~Data Communications and their Performance~0.42
+678~IEEE Computer Graphics and Applications~0.42
+679~ACCV~0.42
+680~SSDBM~0.42
+681~COMAD~0.42
+682~JETAI~0.42
+683~The Journal of Symbolic Logic~0.41
+684~TIME~0.41
+685~INTERACT~0.41
+686~DSOM~0.41
+687~IEEE/Nagoya-University World Wisepersons Workshop~0.41
+688~ALPUK~0.41
+689~International Journal in Computer Simulation~0.41
+690~IS/KI~0.41
+691~KI/?GAI~0.41
+692~Parallel Processing Letters~0.40
+693~Mobile Communications~0.40
+694~GeoInformatica~0.40
+695~EWHCI~0.40
+696~Journal of Visualization and Computer Animation~0.40
+697~Protocol Test Systems~0.40
+698~HIM~0.39
+699~International Journal of Geographical Information Science~0.39
+700~ICRE~0.39
+701~DDB~0.39
+702~IMA Conf.~0.39
+703~CLEF~0.39
+704~EMMCVPR~0.38
+705~MABS~0.38
+706~ECOOP Workshops~0.38
+707~ECSQARU~0.38
+708~Software Engineering for Parallel and Distributed Systems~0.38
+709~PVM~0.38
+710~Electronic Notes in Theoretical Computer Science~0.38
+711~IJDAR~0.38
+712~Australian Database Conference~0.38
+713~Applicable Algebra in Engineering, Communication and Computing~0.38
+714~Theoretical Computer Science~0.38
+715~FMLDO~0.38
+716~EDCC~0.37
+717~Applied Intelligence~0.37
+718~Software Process: Improvement and Practice~0.37
+719~ICMCS, Vol. 2~0.37
+720~SEAL~0.37
+721~Designs, Codes and Cryptography~0.36
+722~IDA~0.36
+723~Queueing Systems~0.36
+724~CSMR~0.36
+725~Web Engineering~0.36
+726~BNCOD~0.36
+727~PDSE~0.36
+728~COCOON~0.36
+729~Software Testing, Verification & Reliability~0.36
+730~ACPC~0.36
+731~ICDM~0.35
+732~ITA~0.35
+733~ICICS~0.35
+734~Protocol Specification, Testing, and Verification~0.35
+735~IFM~0.35
+736~Natural Language Understanding and Logic Programming Workshop~0.35
+737~VLSI~0.35
+738~AISC~0.35
+739~VISUAL~0.35
+740~EUROVAV~0.35
+741~ER Workshops~0.35
+742~LP~0.35
+743~JTASPEFT/WSA~0.35
+744~Workshop on New Paradigms in Information Visualization and Manipulation~0.34
+745~ISC~0.34
+746~ECSQARU-FAPR~0.34
+747~ZB~0.34
+748~Euro-Par~0.34
+749~FCT~0.34
+750~Computer Performance Evaluation / TOOLS~0.34
+751~EuroGP~0.34
+752~INDOCRYPT~0.34
+753~JASIS~0.34
+754~ACM-GIS~0.34
+755~Journal of Universal Computer Science~0.34
+756~IFIP Congress (1)~0.34
+757~Workshop on Implementing Automata~0.33
+758~Foundations of Computer Science: Potential - Theory - Cognition~0.33
+759~ISMIS~0.33
+760~DaWaK~0.33
+761~Applied Artificial Intelligence~0.33
+762~HPTS~0.33
+763~Communications and Multimedia Security~0.33
+764~HICSS (1)~0.33
+765~XPS~0.33
+766~IFIP TCS~0.33
+767~DSV-IS~0.33
+768~Engineering for Human-Computer Interaction~0.32
+769~European Conference on Computer Algebra (2)~0.32
+770~Results and Trends in Theoretical Computer Science~0.32
+771~SPIRE/CRIWG~0.32
+772~JOOP~0.32
+773~Notre Dame Journal of Formal Logic~0.32
+774~IMA Int. Conf.~0.32
+775~Ershov Memorial Conference~0.32
+776~Dagstuhl Seminar on Parallelization in Inference Systems~0.32
+777~SSPR~0.32
+778~Jewels are Forever~0.32
+779~Int. Journal in Computer Simulation~0.32
+780~ADT~0.31
+781~MICCAI~0.31
+782~SAC (1)~0.31
+783~LPE~0.31
+784~IGIS~0.31
+785~The New Review of Hypermedia and Multimedia~0.31
+786~SIGPLAN Notices~0.31
+787~JCDL~0.31
+788~IDMS~0.31
+789~Intelligent Tutoring Systems~0.30
+790~Computation Theory and Logic~0.30
+791~PFE~0.30
+792~ESPRIT ARES Workshop~0.30
+793~CIAA~0.30
+794~COLT/EuroCOLT~0.30
+795~ECCV (3)~0.30
+796~ICSR~0.30
+797~ICOD~0.30
+798~EMO~0.30
+799~Fuzzy Logic in Artificial Intelligence~0.30
+800~IFIP World Conference on Mobile Communications~0.30
+801~PAKDD~0.30
+802~EC-Web~0.29
+803~ASIAN~0.29
+804~USM~0.29
+805~HICSS (3)~0.29
+806~Winter Simulation Conference~0.29
+807~Web Intelligence~0.29
+808~Text Understanding in LILOG, LNCS~0.29
+809~AAECC~0.29
+810~ICC (1)~0.29
+811~Broadband Communications~0.29
+812~Theoretical Foundations of Computer Vision~0.28
+813~DASFAA~0.28
+814~ASP-DAC~0.28
+815~ULPAA~0.28
+816~Advances in Computer Graphics Hardware~0.28
+817~ICALP Satellite Workshops~0.28
+818~LCN~0.28
+819~FoIKS~0.28
+820~IPMU~0.28
+821~Proc. 15?mes Journ?es Bases de Donn?es Avanc?es, BDA~0.27
+822~DEXA~0.27
+823~EP~0.27
+824~Journal of Systems and Software~0.27
+825~IDEAS~0.27
+826~Applications in Parallel and Distributed Computing~0.27
+827~ICANN~0.27
+828~The Analysis of Concurrent Systems~0.27
+829~HPCN~0.27
+830~Modelling and Evaluation of ATM Networks~0.27
+831~IWDM~0.27
+832~Mobile Data Management~0.27
+833~Computer Graphics International~0.27
+834~AMTA~0.27
+835~Computing~0.26
+836~Workshop on Information Integration on the Web~0.26
+837~IEEE International Conference on Multimedia and Expo (II)~0.26
+838~ICC (3)~0.26
+839~Australasian Database Conference~0.26
+840~EPIA~0.26
+841~Canadian Conference on AI~0.26
+842~AVBPA~0.26
+843~DELOS Workshop: Information Seeking, Searching and Querying in Digital Libraries~0.26
+844~AI*IA~0.26
+845~Pattern Recognition Letters~0.25
+846~AMCP~0.25
+847~WECWIS~0.25
+848~GWAI~0.25
+849~UIDIS~0.25
+850~Future Databases~0.25
+851~SAC~0.25
+852~Intelligence~0.25
+853~ICTAI~0.25
+854~Discovery Science~0.24
+855~FroCos~0.24
+856~ICCG~0.24
+857~Workshop on Database Issues for Data Visualization~0.24
+858~ACM Multimedia (2)~0.24
+859~AIMDM~0.24
+860~IWDC~0.24
+861~WOCFAI~0.24
+862~ICISC~0.24
+863~Combinatorics and Computer Science~0.24
+864~Scalable Coherent Interface~0.24
+865~CSEE~0.24
+866~International Journal on Artificial Intelligence Tools~0.24
+867~PVM/MPI~0.24
+868~ISADS~0.24
+869~International Journal of Software Engineering and Knowledge Engineering~0.24
+870~WLP~0.23
+871~Integrated Broadband Communications~0.23
+872~Synthesis for Control Dominated Circuits~0.23
+873~SOFSEM~0.23
+874~DS-3~0.23
+875~HICSS (2)~0.23
+876~ACCV (1)~0.23
+877~GI Datenbank Rundbrief~0.23
+878~IEEE International Conference on Multimedia and Expo (III)~0.23
+879~ICCAL~0.23
+880~Developments in Language Theory~0.23
+881~Information Sciences~0.23
+882~KnowRight~0.23
+883~IMACS World Congress~0.22
+884~PARA~0.22
+885~AIME~0.22
+886~Java-Informations-Tage~0.22
+887~Quality of Numerical Software~0.22
+888~IS&N~0.22
+889~FQAS~0.22
+890~Experimental Software Engineering Issues~0.22
+891~CONTEXT~0.22
+892~HPCN Europe~0.22
+893~IJPRAI~0.22
+894~MMM-ACNS~0.21
+895~SDL Forum~0.21
+896~SIGAda~0.21
+897~Journal of Automata, Languages and Combinatorics~0.21
+898~ICC (2)~0.21
+899~IWFM~0.21
+900~ECMAST~0.21
+901~EUROCAL~0.21
+902~Networking and Information Systems~0.21
+903~ICIAP (2)~0.21
+904~CAIP~0.21
+905~IICIS~0.21
+906~IFIP Congress~0.21
+907~GMP~0.21
+908~DAISD~0.20
+909~MHVR~0.20
+910~SPIRE~0.20
+911~Markup Languages~0.20
+912~IPDPS Workshops~0.20
+913~Neural Processing Letters~0.20
+914~Ada-Europe~0.20
+915~SIGFIDET Workshop~0.20
+916~NETWORKING~0.20
+917~BTW~0.20
+918~EFIS~0.20
+919~SIGIR Forum~0.20
+920~DDSS~0.20
+921~Concurrency and Computation: Practice and Experience~0.20
+922~ECI~0.20
+923~HICSS~0.20
+924~IAS~0.20
+925~DEXA Workshop~0.20
+926~SAC (2)~0.20
+927~CSEE&T~0.20
+928~RelMiCS~0.20
+929~OOIS~0.19
+930~Information & Software Technology~0.19
+931~JSAI Workshops~0.19
+932~PRICAI~0.19
+933~VCHCI~0.19
+934~ACM Multimedia Workshops~0.19
+935~ISCO~0.19
+936~Natural Language Processing~0.19
+937~PROFES~0.19
+938~SEKE~0.19
+939~International Journal of Image and Graphics~0.19
+940~KI~0.18
+941~ISMVL~0.18
+942~ADBIS~0.18
+943~ACM Conference on Computer Science~0.18
+944~ICPP Workshop~0.18
+945~Database Engineering Bulletin~0.18
+946~ICIAP (1)~0.18
+947~RSFDGrC~0.18
+948~Acta Cybernetica~0.18
+949~AFPAC~0.18
+950~IEEE International Workshop on Rapid System Prototyping~0.17
+951~Australian Computer Journal~0.17
+952~DAIS~0.17
+953~VLSI Design~0.17
+954~ONDM~0.17
+955~EvoWorkshops~0.17
+956~New Trends in Formal Languages~0.17
+957~SAFECOMP~0.17
+958~User Modeling~0.17
+959~ACM Annual Conference~0.17
+960~IEEE International Conference on Multimedia and Expo (I)~0.17
+961~Terminology and Knowledge Engineering~0.17
+962~AISB (ECAI)~0.17
+963~Web3D~0.17
+964~MATA~0.17
+965~ICCI~0.17
+966~International Journal of Intelligent Systems~0.17
+967~SEC~0.17
+968~BSDIA~0.16
+969~TRI-Ada~0.16
+970~Australian Joint Conference on Artificial Intelligence~0.16
+971~HICSS (4)~0.16
+972~PRIMA~0.16
+973~IADT~0.16
+974~SCAI~0.16
+975~IWANN~0.16
+976~Multimedia Information Systems~0.16
+977~Informatica (Slovenia)~0.16
+978~Parallelism, Learning, Evolution~0.16
+979~Document Analysis Systems~0.16
+980~Workshop on Data Abstraction, Databases and Conceptual Modelling~0.16
+981~HiPC~0.16
+982~SEBD~0.16
+983~Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets~0.16
+984~CALISCE~0.16
+985~AISB/GI (ECAI)~0.16
+986~IPSEN Book~0.16
+987~CODAS~0.16
+988~Virtual Worlds~0.16
+989~WISE (1)~0.16
+990~MMB~0.15
+991~Advanced Topics in Artificial Intelligence~0.15
+992~ACM StandardView~0.15
+993~PARCO~0.15
+994~Information Theory and Applications~0.15
+995~PATMOS~0.15
+996~EMISA Forum~0.15
+997~ADVIS~0.15
+998~Advances in Computer Graphics~0.15
+999~Software Visualization~0.15
+1000~SSPR/SPR~0.15
+1001~WISE~0.14
+1002~ICSC~0.14
+1003~ADBIS-DASFAA~0.14
+1004~AI in Structural Engineering~0.14
+1005~HICSS (5)~0.14
+1006~DGCI~0.14
+1007~DDLP~0.14
+1008~OHS-7/SC-3/AH-3~0.14
+1009~ICIAP~0.13
+1010~EDBT PhD Workshop~0.13
+1011~Biologically Motivated Computer Vision~0.13
+1012~Cognitive Technology~0.13
+1013~Journal of Systems Integration~0.13
+1014~ISCAS~0.13
+1015~F?derierte Datenbanken~0.13
+1016~NLDB~0.13
+1017~CCA~0.13
+1018~INDC~0.13
+1019~FAABS~0.12
+1020~Journal of Interconnection Networks~0.12
+1021~JCDCG~0.12
+1022~EJC~0.12
+1023~Joint International Conference on Cognitive and Systematic Musicology~0.12
+1024~ICN (1)~0.12
+1025~IFIP Congress (3)~0.12
+1026~Digital Cities~0.12
+1027~Rough Sets and Current Trends in Computing~0.12
+1028~IFIP World Conference on IT Tools~0.11
+1029~WAIM~0.11
+1030~AIMSA~0.11
+1031~ICAPR~0.11
+1032~ISHPC~0.11
+1033~INAP~0.11
+1034~SIGDOC~0.11
+1035~QoS-IP~0.11
+1036~VIS~0.11
+1037~Software Quality Journal~0.11
+1038~D-Lib Magazine~0.11
+1039~ACM Pacific~0.11
+1040~Broadband Islands~0.11
+1041~ARCS~0.11
+1042~WWW Posters~0.10
+1043~Wissensbasierte Systeme~0.10
+1044~Information Fusion~0.10
+1045~CEEMAS~0.10
+1046~Web-Age Information Management~0.10
+1047~Informatik Forsch. Entw.~0.10
+1048~JASIST~0.10
+1049~International Workshop on Rapid System Prototyping~0.10
+1050~ADBIS-DASFAA Symposium~0.10
+1051~IW-SAPF~0.10
+1052~Digital and Image Geometry~0.10
+1053~VECPAR~0.10
+1054~INTERWORKING~0.10
+1055~PRICAI Workshops~0.10
+1056~Great Lakes Computer Science Conference~0.09
+1057~Computer Architecture for Non-Numeric Processing~0.09
+1058~ICIS~0.09
+1059~International Conference on Internet Computing~0.09
+1060~Ada Europe~0.09
+1061~ADBIS (Short Papers)~0.09
+1062~Business Process Re-Engineering~0.09
+1063~International Hong Kong Computer Society Database Workshop~0.09
+1064~The Journal of Supercomputing~0.09
+1065~PROSPECTRA Book~0.09
+1066~RobVis~0.09
+1067~Kommunikation in Verteilten Systemen~0.09
+1068~ICN (2)~0.09
+1069~Algebraic Coding~0.09
+1070~ICALT~0.09
+1071~DAGM-Symposium~0.09
+1072~IEA/AIE~0.09
+1073~NetWORKing~0.09
+1074~Data Base Techniques for Pictorial Applications~0.08
+1075~ICC~0.08
+1076~EUROCODE~0.08
+1077~?GAI~0.08
+1078~Journal of Computer Systems Science and Engineering~0.08
+1079~PaCT~0.08
+1080~IFIP Congress (2)~0.08
+1081~Fuzzy Days~0.08
+1082~Int. Journal of Network Management~0.08
+1083~ICPADS~0.08
+1084~ICCHP~0.08
+1085~SBIA~0.07
+1086~VLDB Surveys~0.07
+1087~IEA/AIE (Vol. 2)~0.07
+1088~Soft-Ware~0.07
+1089~HCI (2)~0.07
+1090~Datenbank Rundbrief~0.07
+1091~Journal of Systems Architecture~0.07
+1092~ACM Southeast Regional Conference~0.07
+1093~ICHIM~0.07
+1094~Expert Planning Systems~0.07
+1095~WebNet (1)~0.07
+1096~IEA/AIE (Vol. 1)~0.06
+1097~Software Quality and Productivity~0.06
+1098~Information Management in Computer Integrated Manufacturing~0.06
+1099~Kognitionswissenschaft~0.06
+1100~IV~0.06
+1101~BIBE~0.06
+1102~CAST~0.06
+1103~EUROCAST~0.06
+1104~Sensor Based Intelligent Robots~0.06
+1105~IWVF~0.06
+1106~Databases in Telecommunications~0.06
+1107~Rechnerunterst?tztes Entwerfen und Konstruieren (CAD)~0.06
+1108~IWANN (2)~0.06
+1109~SIGMOD Workshop, Vol. 1~0.06
+1110~Electronic Imaging~0.06
+1111~SMARTNET~0.06
+1112~HICSS (6)~0.06
+1113~LSSC~0.06
+1114~Journal of Quantitative Linguistics~0.06
+1115~I3E~0.06
+1116~International Conference on Computational Science (1)~0.05
+1117~Kyoto International Conference on Digital Libraries~0.05
+1118~IBERAMIA~0.05
+1119~ICTCS~0.05
+1120~IMSA~0.05
+1121~Grammars~0.05
+1122~International Conference on Internet Computing (1)~0.05
+1123~International Journal of Computational Intelligence and Applications~0.05
+1124~ICHIM, Multimedia Computing and Museums~0.05
+1125~DATA BASE~0.05
+1126~HCI (1)~0.05
+1127~SIGSMALL/PC~0.05
+1128~Automated Deduction in Geometry~0.05
+1129~Int. CMG Conference~0.05
+1130~WNAA~0.05
+1131~Grundlagen von Datenbanken~0.05
+1132~IEA/AIE (2)~0.05
+1133~Wirtschaftsinformatik~0.04
+1134~Journal of Research and Practice in Information Technology~0.04
+1135~ICHIM (1)~0.04
+1136~Jerusalem Conference on Information Technology~0.04
+1137~AI & Society~0.04
+1138~MLDM~0.04
+1139~Inteligencia Artificial, Revista Iberoamericana de Inteligencia Artificial~0.04
+1140~GI Jahrestagung (1)~0.04
+1141~Teleteaching~0.04
+1142~IEEE Annals of the History of Computing~0.04
+1143~Human.Society@Internet~0.04
+1144~GI Jahrestagung~0.04
+1145~TSD~0.04
+1146~L'OBJET~0.04
+1147~APL~0.04
+1148~Bildverarbeitung f?r die Medizin~0.04
+1149~ICCC~0.04
+1150~SETN~0.04
+1151~CICLing~0.03
+1152~Informatik Spektrum~0.03
+1153~International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems~0.03
+1154~IEEE Pacific Rim Conference on Multimedia~0.03
+1155~PROLAMAT~0.03
+1156~ICOIN~0.03
+1157~IWAR~0.03
+1158~Active Media Technology~0.03
+1159~Herausforderungen an die Wissensorganisation (ISKO Tagung)~0.03
+1160~Progress in Discovery Science~0.03
+1161~IPCC (2)~0.03
+1162~SYBEN~0.03
+1163~IEA/AIE (1)~0.03
+1164~MMNS~0.03
+1165~International Conference on Computational Science (2)~0.03
+1166~ICEIS~0.03
+1167~Transputer-Anwender-Treffen~0.03
+1168~ICMI~0.02
+1169~ICEIS (1)~0.02
+1170~WAA~0.02
+1171~IBERAMIA-SBIA~0.02
+1172~SIGUCCS~0.02
+1173~FDT - Bulletin of ACM SIGFIDET~0.02
+1174~Software-Ergonomie~0.02
+1175~ISMDA~0.02
+1176~Artificial Intelligence in Higher Education~0.02
+1177~WISE (2)~0.02
+1178~ICEIS (2)~0.02
+1179~MICAI~0.02
+1180~Kommunikation in Verteilten Systemen (1)~0.01
+1181~IDEAL~0.01
+1182~GI Jahrestagung (2)~0.01
+1183~Diagrams~0.01
+1184~SIGSMALL/PC Symposium~0.01
+1185~ACM SIGBDP Conference on Trends and Directions in Expert Systems~0.01
+1186~Multimedia Technology and Applications~0.01
+1187~ISAS-SCI (1)~0.01
+1188~Informatica (Lithuanian Academy of Sciences)~0.01
+1189~Angewandte Informatik~0.01
+1190~CAD~0.00
+1191~IWANN (1)~0.00
+1192~ACM SIGMOD Digital Review~0.00
+1193~WebNet (2)~0.00
+1194~Essen Symposium~0.00
+1195~Bull. Acad. Polon. Sci., S?r. Sci. Math. Astronom. Phys.~0.00
+1196~International Journal of Neural Systems~0.00
+1197~FDT - Bulletin of ACM SIGMOD~0.00
+1198~IuK~0.00
+1199~ICHIM, Hands on: Hypermedia and Interactivity in Museums~0.00
+1200~IWCC~0.00
+1201~CODATA~0.00
+1202~Local Area Network Applications~0.00
+1203~High-Performance Web Databases~0.00
+1204~International Working Conference on Model Realism~0.00
+1205~Terminology and Knowledge Engineering (Vol. 1)~0.00
+1206~ICHIM (2)~0.00
+1207~Terminology and Knowledge Engineering (Vol. 2)~0.00
+1208~HMD - Praxis der Wirtschaftsinformatik~0.00
+1209~IMACS European Simulation Meeting~0.00
+1210~International Conference on Computational Science (3)~0.00
+1211~AFSS~0.00
+1212~NAA~0.00
+1213~Woman, Work and Computerization~0.00
+1214~Informatik als Herausforderung an Schule und Ausbildung~0.00
+1215~Professional Development of Information Technology Professionals~0.00
+1216~PEARL~0.00
+1217~ITAMS~0.00
+1218~Computer-Aided Production Management~0.00
+1219~Dublin Core Conference~0.00
+1220~SCCC~0.00
+1221~IBERAMIA-SBIA 2000 Open Discussion Track~0.00
